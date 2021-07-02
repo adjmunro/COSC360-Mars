@@ -1,5 +1,5 @@
 # Mars
-Mars (2018) is a text-based resource management game developed during the 5 weeks of Otago University's summer school paper, COSC360.
+Mars (2018) is a text-based resource management game developed during the 5 weeks of Otago University's summer school paper, COSC360. [Play it here!](https://cosc360.otago.ac.nz/games/2018/Mars)
 
 ## Credits:
 * Finlay Luxton       - Team Lead
