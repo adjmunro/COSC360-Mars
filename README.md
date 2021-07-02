@@ -9,3 +9,8 @@ Mars (2018) is a text-based resource management game developed during the 5 week
 
 Special Thanks To:
 Iris Luxton         - Music and Sound Design
+
+![Intro Splashscreen](/MarsProject/Assets/Sprites/splashscreen_intro.png)
+![Win Splashscreen](/MarsProject/Assets/Sprites/splashscreen_win.png)
+![Lose Splashscreen](/MarsProject/Assets/Sprites/splashscreen_lose.png)
+![Hounders Event](/MarsProject/Assets/Sprites/Resources/Event_Hounders.png)
